@@ -1,0 +1,12 @@
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/DesignPatterns.Infra.csproj.AssemblyReference.cache
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/DesignPatterns.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/DesignPatterns.Infra.AssemblyInfoInputs.cache
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/DesignPatterns.Infra.AssemblyInfo.cs
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/DesignPatterns.Infra.csproj.CoreCompileInputs.cache
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/bin/Debug/net5.0/DesignPatterns.Infra.deps.json
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/bin/Debug/net5.0/DesignPatterns.Infra.dll
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/bin/Debug/net5.0/ref/DesignPatterns.Infra.dll
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/bin/Debug/net5.0/DesignPatterns.Infra.pdb
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/DesignPatterns.Infra.dll
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/ref/DesignPatterns.Infra.dll
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/DesignPatterns.Infra.pdb

@@ -1,0 +1,12 @@
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/bin/Debug/net5.0/DesignPatterns.Domain.deps.json
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/bin/Debug/net5.0/DesignPatterns.Domain.dll
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/bin/Debug/net5.0/ref/DesignPatterns.Domain.dll
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/bin/Debug/net5.0/DesignPatterns.Domain.pdb
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/obj/Debug/net5.0/DesignPatterns.Domain.csproj.AssemblyReference.cache
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/obj/Debug/net5.0/DesignPatterns.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/obj/Debug/net5.0/DesignPatterns.Domain.AssemblyInfoInputs.cache
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/obj/Debug/net5.0/DesignPatterns.Domain.AssemblyInfo.cs
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/obj/Debug/net5.0/DesignPatterns.Domain.csproj.CoreCompileInputs.cache
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/obj/Debug/net5.0/DesignPatterns.Domain.dll
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/obj/Debug/net5.0/ref/DesignPatterns.Domain.dll
+/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/obj/Debug/net5.0/DesignPatterns.Domain.pdb

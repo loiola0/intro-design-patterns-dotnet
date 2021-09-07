@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns/DesignPatterns.csproj": {}
+  },
+  "projects": {
+    "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/DesignPatterns.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/DesignPatterns.Domain.csproj",
+        "projectName": "DesignPatterns.Domain",
+        "projectPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/DesignPatterns.Domain.csproj",
+        "packagesPath": "/home/victor-gabriel/.nuget/packages/",
+        "outputPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/victor-gabriel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/DesignPatterns.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/DesignPatterns.Infra.csproj",
+        "projectName": "DesignPatterns.Infra",
+        "projectPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/DesignPatterns.Infra.csproj",
+        "packagesPath": "/home/victor-gabriel/.nuget/packages/",
+        "outputPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/victor-gabriel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns/DesignPatterns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns/DesignPatterns.csproj",
+        "projectName": "DesignPatterns",
+        "projectPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns/DesignPatterns.csproj",
+        "packagesPath": "/home/victor-gabriel/.nuget/packages/",
+        "outputPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/victor-gabriel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/DesignPatterns.Domain.csproj": {
+                "projectPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/DesignPatterns.Domain.csproj"
+              },
+              "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/DesignPatterns.Infra.csproj": {
+                "projectPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/DesignPatterns.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
