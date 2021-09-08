@@ -10,3 +10,15 @@
 /home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/DesignPatterns.Infra.dll
 /home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/ref/DesignPatterns.Infra.dll
 /home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/obj/Debug/net5.0/DesignPatterns.Infra.pdb
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\bin\Debug\net5.0\DesignPatterns.Infra.deps.json
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\bin\Debug\net5.0\DesignPatterns.Infra.dll
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\bin\Debug\net5.0\ref\DesignPatterns.Infra.dll
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\bin\Debug\net5.0\DesignPatterns.Infra.pdb
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.csprojAssemblyReference.cache
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.AssemblyInfoInputs.cache
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.AssemblyInfo.cs
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.csproj.CoreCompileInputs.cache
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.dll
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\obj\Debug\net5.0\ref\DesignPatterns.Infra.dll
+C:\Users\victor.loiola\Documents\victor\cursos\intro-design-patterns-dotnet\DesignPatterns.Infra\obj\Debug\net5.0\DesignPatterns.Infra.pdb

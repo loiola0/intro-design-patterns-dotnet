@@ -15,12 +15,19 @@ namespace DesignPatterns.Controllers
     public class SingletonController : ControllerBase
     {
 
+        private readonly SingletonContainer singletonContainer;
+
+        public SingletonController(SingletonContainer singletonContainer)
+        {
+            this.singletonContainer = singletonContainer;
+        }
+
         [HttpGet()]
         public IActionResult Get()
         {
-            var singleton = new Singleton();
+            //var singleton = Singleton.Instance;
             
-            return Ok(singleton);
+            return Ok(singletonContainer);
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/fosf/o1/ZPowu37tBNiTexdzoIwnhzXEFKaUpRvFQDNavy8kVDu7ihN+DzKkVA24P63Oz7nrTS0IJrutssw3Q==",
+  "dgSpecHash": "zbSlWp9R1VHwWhUC8PL4zaOGNtpC7CUbgyPYMDb5Npjh3TWCpihCgZBkSEhauu4fxOI/SILfR9dZxU8zx/7+1Q==",
   "success": true,
-  "projectFilePath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/DesignPatterns.Infra.csproj",
+  "projectFilePath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\intro-design-patterns-dotnet\\DesignPatterns.Infra\\DesignPatterns.Infra.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -225,35 +225,37 @@
     ]
   },
   "packageFolders": {
-    "/home/victor-gabriel/.nuget/packages/": {}
+    "C:\\Users\\victor.loiola\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns/DesignPatterns.csproj",
+      "projectUniqueName": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\intro-design-patterns-dotnet\\DesignPatterns\\DesignPatterns.csproj",
       "projectName": "DesignPatterns",
-      "projectPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns/DesignPatterns.csproj",
-      "packagesPath": "/home/victor-gabriel/.nuget/packages/",
-      "outputPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns/obj/",
+      "projectPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\intro-design-patterns-dotnet\\DesignPatterns\\DesignPatterns.csproj",
+      "packagesPath": "C:\\Users\\victor.loiola\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\intro-design-patterns-dotnet\\DesignPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/victor-gabriel/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\victor.loiola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/DesignPatterns.Domain.csproj": {
-              "projectPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Domain/DesignPatterns.Domain.csproj"
+            "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\intro-design-patterns-dotnet\\DesignPatterns.Domain\\DesignPatterns.Domain.csproj": {
+              "projectPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\intro-design-patterns-dotnet\\DesignPatterns.Domain\\DesignPatterns.Domain.csproj"
             },
-            "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/DesignPatterns.Infra.csproj": {
-              "projectPath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns.Infra/DesignPatterns.Infra.csproj"
+            "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\intro-design-patterns-dotnet\\DesignPatterns.Infra\\DesignPatterns.Infra.csproj": {
+              "projectPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\intro-design-patterns-dotnet\\DesignPatterns.Infra\\DesignPatterns.Infra.csproj"
             }
           }
         }
@@ -291,7 +293,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
