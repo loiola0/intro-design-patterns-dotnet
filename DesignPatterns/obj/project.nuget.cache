@@ -1,15 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "eTHaJQ/u4EUt8qgtpSk021Cf85Mwh1P8C4H/WDbPxzQ4Btx1080wOvWdT9+WpNw+RcgXffE5G54l+EYfRerVzQ==",
+  "dgSpecHash": "dQ5e94y4lxiCemG7c226vbV2uHphzG5poTaJmDeFS7gx23lAA1VB4V/TW22MBOUgNZCQP44DFRlv3kYFBOaZmg==",
   "success": true,
   "projectFilePath": "/home/victor-gabriel/Documentos/cursos/intro-design-patterns-dotnet/DesignPatterns/DesignPatterns.csproj",
   "expectedPackageFiles": [
+    "/home/victor-gabriel/.nuget/packages/microsoft.entityframeworkcore/5.0.7/microsoft.entityframeworkcore.5.0.7.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.7/microsoft.entityframeworkcore.abstractions.5.0.7.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.7/microsoft.entityframeworkcore.analyzers.5.0.7.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.entityframeworkcore.inmemory/5.0.7/microsoft.entityframeworkcore.inmemory.5.0.7.nupkg.sha512",
     "/home/victor-gabriel/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.extensions.caching.memory/5.0.0/microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.1/microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.extensions.http/5.0.0/microsoft.extensions.http.5.0.0.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.extensions.logging/5.0.0/microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/home/victor-gabriel/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/home/victor-gabriel/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/home/victor-gabriel/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/home/victor-gabriel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/home/victor-gabriel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "/home/victor-gabriel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/home/victor-gabriel/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

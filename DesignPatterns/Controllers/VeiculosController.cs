@@ -14,6 +14,7 @@ namespace DesignPatterns.Controllers
     {
 
         private readonly IVeiculoRepository _veiculoRepository;
+        private readonly IVeiculoDetran _veiculoDetran;
 
         public VeiculosController(IVeiculoRepository veiculoRepository)
         {
@@ -59,5 +60,12 @@ namespace DesignPatterns.Controllers
 
         }
 
+        [HttpPut("{id}/vistoria")]
+        public IActionResult Put(Guid id)
+        {
+            _veiculoDetran.AgendarVistoriaDetran(id);
+            
+            return NoContent();
+        }
     }
 }

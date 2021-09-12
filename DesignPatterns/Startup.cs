@@ -11,7 +11,12 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
 using DesignPatterns.Infra.Singleton;
+using DesignPatterns.Domain;
+using DesignPatterns.Infra.Repository;
+using DesignPatterns.Infra.Repository.EF;
+using DesignPatterns.Infra.Facade;
 
 namespace DesignPatterns
 {
@@ -35,6 +40,18 @@ namespace DesignPatterns
             });
 
             services.AddSingleton<SingletonContainer>();
+
+            services.AddTransient<IVeiculoRepository,DesignRepository>();
+
+            services.AddDbContext<DesignContext>(opt => opt.UseInMemoryDatabase("Design"));
+
+            services.AddTransient<IVeiculoDetran,VeiculoDetranFacade>();
+
+            services.Configure<DetranOptions>(Configuration.GetSection("DetranOptions"));
+
+            services.AddHttpClient();
+
+           
 
         }
 
